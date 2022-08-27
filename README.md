@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Woqq</h1>
 <h3 align="center">A passionate student in the third year of the IMS</h3>
-<p align="center">
-<img alt="Coding" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
-</p>
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woqqq&label=Profile%20views&color=0e75b6&style=flat" alt="woqqq" /> </p>
 
 - 🔭 I’m currently working on **Weather App**
