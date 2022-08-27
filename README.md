@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JSF, Bootstrap and jQuery**
 
-- 📫 How to reach me **flynn@guerra.net**
+- 📫 How to reach me: **flynn@guerra.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
